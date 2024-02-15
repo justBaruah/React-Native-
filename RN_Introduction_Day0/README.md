@@ -20,7 +20,8 @@ The main component, `App`, returns a view that encapsulates several text compone
 
 ## Screenshot
 
-![App Screenshot](/RN_Introduction_Day0/assets/Screenshot 2024-02-15 232532.png "App Screenshot")
+![Screenshot 2024-02-15 232532](https://github.com/justBaruah/React-Native-/assets/99552757/d153b599-9639-44c6-a92a-4eb81003bd52)
+
 
 ## How to Run
 
