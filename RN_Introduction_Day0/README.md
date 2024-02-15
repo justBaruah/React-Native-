@@ -31,3 +31,4 @@ The main component, `App`, returns a view that encapsulates several text compone
 4. **Start the project**: `expo start`
 
 Scan the QR code with the Expo Go app to view the app live on your device.
+Happy Coding!
