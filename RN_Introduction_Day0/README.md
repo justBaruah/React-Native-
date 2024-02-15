@@ -20,7 +20,7 @@ The main component, `App`, returns a view that encapsulates several text compone
 
 ## Screenshot
 
-![App Screenshot](RN_Introduction_Day0/assets/Screenshot 2024-02-15 232532.png)
+![App Screenshot](https://drive.google.com/file/d/1S33Adrlcc0ikAwdaEabV3L3FPI69PN7K/view?usp=sharing)
 
 ## How to Run
 
