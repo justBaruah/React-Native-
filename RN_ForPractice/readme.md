@@ -1,3 +1,4 @@
+## For App.js
 ### Import Statements
 - `import React from "react";`: Imports the React library to use in the app.
 - `import { StyleSheet, Text, View, Button, Alert, Linking, ActivityIndicator, ScrollView, FlatList, } from "react-native";`: Imports components and APIs from the `react-native` library.
