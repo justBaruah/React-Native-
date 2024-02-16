@@ -41,6 +41,4 @@
 ### Note on Style Properties
 - Note that some style properties are duplicated or might not correctly reflect their intended use, such as the duplicated `backgroundColor` in `styles.container`.
 
-## Conclusion
-
-This README explains each line of the provided App.js code, including the structure, components used, and the purpose of each part of the code. It's designed to help beginners understand some basic components of React Native.
+[https://github.com/justBaruah/React-Native-/blob/main/RN_ForPractice/README.md](README.md)
