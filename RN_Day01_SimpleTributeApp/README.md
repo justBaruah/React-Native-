@@ -19,9 +19,12 @@ To run the project locally, follow these steps:
 
 ## Screenshots
 
-![Splash Screen](/assets/splash_screen.jpg)
-![Home Screen](/assets/home_screen.jpg)
-![Modal](/assets/modal.jpg)
+![splash_screen](https://github.com/justBaruah/React-Native-/assets/99552757/e3278e33-5193-4cb4-a32f-16d887589d28)
+![home_screen](https://github.com/justBaruah/React-Native-/assets/99552757/b1e1ff3f-bd14-41f9-8a9c-86c0a5b23012)
+![modal](https://github.com/justBaruah/React-Native-/assets/99552757/dc908ceb-4625-4fe3-9138-adf7714e5d99)
+
+
+
 
 ## Technologies Used
 
