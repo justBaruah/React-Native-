@@ -16,7 +16,7 @@ import {
 } from "react-native";
 
 
-export default function App() {
+export default function HomeScreen() {
   const DATA = [
     {
       ID: "1",
@@ -90,7 +90,9 @@ export default function App() {
             Linking.openURL("https://www.britannica.com/event/Maratha-Wars");
           },
         },
-      ],
+      ],{
+      backgroundColor: 'orange',
+    color: 'orange'},
       { cancelable: true, style: "horizontal" }
     );
   };
@@ -198,7 +200,6 @@ export default function App() {
   </View>
 </Modal>
 </View>
-
 </ImageBackground>
 );
 }
