@@ -15,7 +15,7 @@ import Task from "./components/task";
  
 export default function App() {
   const [task, setTask] = useState(""); //Keyboard Input
-  const [taskItems, setTaskItems] = useState(""); // Display Task Infos
+  const [taskItems, setTaskItems] = useState([]); // Display Task Infos
  
   const handleAddTask = () => {
     Keyboard.dismiss();
