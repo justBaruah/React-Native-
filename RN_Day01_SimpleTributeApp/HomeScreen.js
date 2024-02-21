@@ -15,7 +15,6 @@ import {
   FlatList, // Import FlatList
 } from "react-native";
 
-
 export default function HomeScreen() {
   const DATA = [
     {
