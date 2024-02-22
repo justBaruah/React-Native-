@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "RN_Day02_To-Do-List",
+    "name": "To-Do by Anks",
     "slug": "RN_Day02_To-Do-List",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon.jpg",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
@@ -21,10 +21,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ankurbaruah.RN_Day02_ToDoList"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "af44d394-24d0-4182-bf08-1eafedb463c3"
+      }
     }
   }
 }
