@@ -1,1 +1,1 @@
-## I have uploaded the APK, You can download the app, and try it on your device. 
+### I cannot upload the APK as GITHUB do not allow files > 25mb, You can still hover over my GDRIVE LINK: https://drive.google.com/file/d/1vfI9r89vamNReuF9fJbrZdQ-CIFZLvBZ/view?usp=sharing for the apk. Try it on your device! Good Day!
